@@ -1,0 +1,9 @@
+aiogram==3.22.0
+feedparser==6.0.10
+SQLAlchemy==2.0.43
+alembic==1.11.1
+requests==2.31.0
+transformers==4.44.0   # опционально, если хочешь LLM-суммаризацию
+torch>=1.12.0          # если transformers будут использоваться локально
+nltk==3.8.1            # для простого суммаризатора-резерва
+python-dotenv==1.0.0
