@@ -1,5 +1,5 @@
 # config.py
-TELEGRAM_BOT_TOKEN = "8234123037:AAFnYexG95KymGWdnk5V-92sZZkK8Zk1CGw"
+TELEGRAM_BOT_TOKEN = "токен бота"
 ADMIN_USER_IDS = [830689820]  # список id админов (для тестирования)
 RSS_FEEDS = [
     "https://habr.com/ru/rss/all/all/?fl=ru",
